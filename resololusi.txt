@@ -1,5 +1,7 @@
 Resolusi saya kepepanya :
-- Konsisten dalam belajar coding
-- Belajar Frontend Wengdev
-- Buat portofolio
+- konsisten dalam belajar coding
+- belajar Frontend Wengdev
+- membuat portofolio
+- membuat movie web db
+- melamar di perusahaan
  
